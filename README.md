@@ -1,4 +1,4 @@
-# airlines
+# Airlines_Market_Segmentation
 Market segmentation is a strategy that divides a broad target market of customers into smaller, more similar groups, and then designs a marketing strategy specifically for each group. Clustering is a common technique for market segmentation since it automatically finds similar groups given a data set.
 
 In this problem, we’ll see how clustering can be used to find similar groups of customers who belong to an airline’s frequent flyer program. The airline is trying to learn more about its customers so that it can target different customer segments with different types of mileage offers.
